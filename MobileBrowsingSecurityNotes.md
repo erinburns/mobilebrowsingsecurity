@@ -20,7 +20,7 @@
     - Private browsing mode. Chrome and Safari have private browsing modes that do not save browsing history.
       - Safari (iOS 11):  open Safari, then tap ![Safari windows icon](https://i.imgur.com/0yzsRQQ.png "Safari windows icon"). Tap Private, then tap Done. While Private Browsing is on, Safari appears black or dark instead of white or gray.
       - Chrome for Android: open the Chrome app >  tap More ![alt text](https://i.imgur.com/dg5bYXe.png "Chrome more icon") > New Incognito tab. Check for the Incognito icon ![Chrome incognito mode icon](https://i.imgur.com/qUvvhnn.png "Chrome incognito mode icon")
-- Clean up. 
+### Clean up. 
 
 ![Delete all the things meme](https://i.imgur.com/wq9F1Qg.jpg "Delete all the things meme")
 
