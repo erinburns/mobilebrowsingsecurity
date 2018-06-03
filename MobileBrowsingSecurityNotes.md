@@ -37,6 +37,7 @@ Now that you’ve gotten to know your data and adjusted your privacy settings, d
 - Alternatives. Have a look at some alternative browsers:
   - iPhone: Firefox or Firefox Focus 
   - Android: Firefox, Firefox Focus, Orfox (requires Orbot)
+  
  ![Mobile browser alternatives](https://i.imgur.com/pbqdeDH.png "Mobile browser alternatives")
  
 ### Resources
